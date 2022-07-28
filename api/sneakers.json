@@ -1,0 +1,258 @@
+{
+    "0":{
+        "img": "../images/products/sneakers/nike-sb-dunk-gdb-yellow.jpg",
+        "title": "NIKE SB DUNK LOW GRATEFUL DEAD BEARS YELLOW.",
+        "description": "Nike Skateboarding teamed up with legendary psychedelic rock band Grateful Dead to release the Nike SB Dunk Low Grateful Dead Bears Yellow, now available on urban. The design theme of this collaboration pays homage to the Grateful Dead Bears, a series of stylized dancing bears illustrated by Bob Thomas on the back cover of the album History of the Grateful Dead, Volume One (Bear's Choice) in 1973. The SB Dunk Low Grateful Dead Bears Yellow features a fuzzy yellow faux-fur upper with suede overlays and a jagged Swoosh to represent the stylization of the bear's chest fur. A hidden stash pocket is featured inside the tongue that is perfect for extra storage. A yellow midsole, blue outsole, and signature Grateful Dead branding on the tongue complete this euphoric design. These sneakers released in July of 2020 and retailed for $110 USD.",
+        "price": "$837",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/nike-sb-dunk-low-grateful-dead-bears-yellow"
+    },
+    "1":{
+        "img": "../images/products/sneakers/nike-aj4-black-cat.jpg",
+        "title": "NIKE AIR JORDAN 4 BLACK CAT.",
+        "description": "The Jordan 4 Retro Black Cat 2020 Kids features a black and Light Graphite nubuck and mesh upper, with the black palette covering the entirety of the silhouette. From there, the eyestays take on a glossy sheen to contrast with the nubuck overlays and another Jumpman logo in black on the back of the heel comes together with a white counterpart on the bottom of the outsole to complete the design. The Jordan 4 Retro Black Cat 2020 Kids released in January of 2020 and retailed for $140.",
+        "price": "$621",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": false,
+            "collaboration": false,
+            "trending": true,
+            "hype": true,
+            "limited": false
+        },
+        "buy": "https://stockx.com/air-jordan-4-retro-black-cat-2020-gs"
+    },
+    "2":{
+        "img": "../images/products/sneakers/nike-aj1-travis-scott.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH TRAVIS SCOTT.",
+        "description": "Grab a pack of coffee beans to match the Jordan 1 Retro High Travis Scott. This AJ1 comes with a brown upper plus white accents, black Nike 'Swoosh', sail midsole, and a brown sole. These sneakers released in May 2019 and retailed for $175. Mess the club up in these after buying them on urban.",
+        "price": "$1.839",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": false,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-travis-scott"
+    },
+    "3":{
+        "img": "../images/products/sneakers/nike-aj1-travis-scott-brown.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO LOW TRAVIS SCOTT MOCHA.",
+        "description": "The sneaker uses a suede Mocha with white leather overlays and Red and Sail accents. Travis's signature design elements on the collaborative sneaker are featured throughout such as the reverse Swoosh and Cactus Jack branding on the heeltab and insole. Lastly, a Sail midsole and Mocha outsole finish off the sneaker.",
+        "price": "$1.799",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": false,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-low-og-sp-travis-scott-reverse-mocha"
+    },
+    "4":{
+        "img": "../images/products/sneakers/nike-aj1-travis-scott-blue.jpg",
+        "title": "NIKE AIR JORDAN 1 LOW FRAGMENT X TRAVIS SCOTT.",
+        "description": "The sneaker uses a suede Mocha with white leather overlays and Red and Sail accents. Travis's signature design elements on the collaborative sneaker are featured throughout such as the reverse Swoosh and Cactus Jack branding on the heeltab and insole. Lastly, a Sail midsole and Mocha outsole finish off the sneaker.",
+        "price": "$1.593",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-low-fragment-design-x-travis-scott"
+    },
+    "5":{
+        "img": "../images/products/sneakers/nike-aj4-travis-scott.jpg",
+        "title": "NIKE AIR JORDAN 4 RETRO TRAVIS SCOTT.",
+        "description": "The only way to describe the Travis Scott Air Jordan 4 Retros properly would be to use the rappers own adlib: la flame. These Jordan 4s were made in collaboration with rapper, Travis Scott and nicknamed the 'Cactus Jack' edition. Similar in design to the infamous Eminem pair, these feature a lighter shade of blue suede on the upper. Black accents, a red liner, paint splatter detailing, a white midsole and 'Cactus Jack' branding on the back heel tab finish things off for this pair. These dropped in June of 2018 for $225 and came exclusively in men's sizes. If you're a fan of Travis Scott and the AJ 4, this pair is another must-have. Straight up!",
+        "price": "$919",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": false,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-4-retro-travis-scott-cactus-jack"
+    },
+    "6":{
+        "img": "../images/products/sneakers/nike-sb-dunk-truck-it.jpg",
+        "title": "NIKE SB DUNK LOW TRUCK IT.",
+        "description": "The sneaker uses a suede Mocha with white leather overlays and Red and Sail accents. Travis's signature design elements on the collaborative sneaker are featured throughout such as the reverse Swoosh and Cactus Jack branding on the heeltab and insole. Lastly, a Sail midsole and Mocha outsole finish off the sneaker.",
+        "price": "$339",
+        "badges": {
+            "verified": true,
+            "classic": true,
+            "exclusive": false,
+            "collaboration": false,
+            "trending": false,
+            "hype": false,
+            "limited": false
+        },
+        "buy": "https://stockx.com/nike-sb-dunk-low-truck-it"
+    },
+    "7":{
+        "img": "../images/products/sneakers/nike-sb-dunk-black.jpg",
+        "title": "NIKE SB DUNK LOW RETRO WHITE BLACK.",
+        "description": "From the school-spirited College Colors Program to the vibrant Nike CO.JP collection, Nike Dunks have seen many colorways since the design's inception in 1985. But with each new colorway, the Dunk's classic color-blocking has remained in some capacity. Nike put its timeless color-blocking to work with the Nike Dunk Low Retro White Black. The upper Nike Dunk Low Retro White Black is constructed of white leather with black leather overlays and Swooshes. Classic Nike branding is featured on the nylon tongue, nodding to traditional Dunk design elements. A white midsole and black outsole completes the design. The Nike Dunk Low Retro White Black released in January of 2021 and retailed for $100.",
+        "price": "$139",
+        "badges": {
+            "verified": true,
+            "classic": true,
+            "exclusive": false,
+            "collaboration": false,
+            "trending": false,
+            "hype": false,
+            "limited": false
+        },
+        "buy": "https://stockx.com/nike-dunk-low-retro-white-black-2021"
+    },
+    "8":{
+        "img": "../images/products/sneakers/nike-aj1-pine-green.jpg",
+        "title": "NIKE AIR JORDAN 1 LOW PINE GREEN.",
+        "description": "The Jordan 1 Low Pine Green features a white leather upper with Pine Green overlays and visible stitching. From there, a black Nike swoosh and a perforated toe cap complete the design. The Jordan 1 Low Pine Green was released in February of 2020 and retailed for $160.",
+        "price": "$399",
+        "badges": {
+            "verified": true,
+            "classic": true,
+            "exclusive": false,
+            "collaboration": false,
+            "trending": true,
+            "hype": false,
+            "limited": false
+        },
+        "buy": "https://stockx.com/air-jordan-1-low-pine-green"
+    },
+    "9":{
+        "img": "../images/products/sneakers/nike-aj1-dior.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH DIOR.",
+        "description": "Jordan Brand connected with Parisian fashion house Dior to create history with the Jordan 1 Retro High Dior, now available on urban. This is the first time that Jordan has collaborated with a legacy fashion label like Dior, making this release one for the books. This release was limited to only 8,500 pairs, each pair individually numbered. This Jordan 1 Retro High is composed of a white and grey leather upper with traditional Dior monogram print Swoosh. These shoes are made in Italy with premium materials. Co-branded icy translucent soles, Dior branded tongue and Wings logo, and a silver “Air Dior” hang tag completes the design. These sneakers released in April of 2020 and retailed for $2,000.",
+        "price": "$8.989",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-dior"
+    },
+    "10":{
+        "img": "../images/products/sneakers/nike-aj1-fearless.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH FEARLESS UNC CHICAGO.",
+        "description": "Please Note: Extra laces are not guaranteed. Jordan Brand sheds light on Michael's transition from the college hoops scene to the NBA with the Jordan 1 Retro High Fearless UNC Chicago, now available on urban. 1984 marked the year MJ entered the league and changed the game as we know it. This shoe is an embodiment of staying true to your roots as you face adversity and adapt to perform at the highest level. This AJ 1 is composed of a white patent leather upper with red and university blue overlays, black Nike 'Swoosh', white midsole, and a red outsole. These sneakers released in November of 2019 and retailed for $160.",
+        "price": "$341",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": false,
+            "collaboration": false,
+            "trending": true,
+            "hype": false,
+            "limited": false
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-fearless-unc-chicago"
+    },
+    "11":{
+        "img": "../images/products/sneakers/nike-aj1-mocha.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH DARK MOCHA.",
+        "description": "Jordan Brand continued their Black Toe design theme in 2020 and released the Jordan 1 High Dark Mocha, now available on urban. The Dark Mocha 1 was one of the most anticipated releases in 2020 due to its familiar colorblocking that referenced two of the greatest Jordan 1s of all-time, the Jordan 1 Travis Scott and the Jordan 1 Black Toe. The upper of the Jordan 1 High Dark Mocha features a Sail leather base with black leather surrounding the toe box and Mocha suede on the heel and ankle. A black leather Swoosh, Jordan Wings logo on the ankle, and Nike Air branding on the tongue pays homage to branding that can be found on the original 1985 Jordan 1. A Sail midsole and black outsole complete this Black Toe design. The Jordan 1 High Dark Mocha released in October of 2020 and retailed for $175.",
+        "price": "$439",
+        "badges": {
+            "verified": true,
+            "classic": true,
+            "exclusive": false,
+            "collaboration": false,
+            "trending": true,
+            "hype": false,
+            "limited": false
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-dark-mocha"
+    },
+    "12":{
+        "img": "../images/products/sneakers/nike-aj1-off-white-red.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH OFF-WHITE CHICAGO.",
+        "description": "The Off-White x Air Jordan 1 Retro High OG was one of the most highly anticipated footwear collaborations of 2017. It marked the first time Virgil Abloh, founder of the Milan-based fashion label and Jordan Brand had teamed up. Nicknamed 'The 10' edition, this pair comes in the original Chicago-themed white, black and varsity red colorway. Featuring a white, red and black-based deconstructed leather upper with a Swooshless medial side branded with 'Off-White for Nike Air Jordan 1, Beaverton, Oregon, USA © 1985.' Other details include: floppy ankle collars with hidden '85' written on the inside, an oversized off-centered Swoosh on the lateral sides, 'Air' written on the midsole and the word 'Shoelaces' on the laces with no branding on the tongue. Their release date is set for 2017 where they retailed for $190 in men's sizes only. As if the hype wasn't enough, the limited availability made these Off-White x Air Jordan 1 Retro High OG's highly sought after, way before their official release. Those of you in need of a pair can hit up the marketplace to buy them. If you got a pair and want to see what they're going for, check online and then decide if it's time to sell or wait.",
+        "price": "$5.278",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-off-white-chicago"
+    },
+    "13":{
+        "img": "../images/products/sneakers/nike-aj1-off-white-white.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH OFF-WHITE WHITE.",
+        "description": "Off White x Nike Air Jordan 1 Retro High Sneakers includes a white base with a large clean white Nike Swooshes on sides. The Swoosh has bright blue stitches and an orange tab. It makes the pair look more flawless and captivating. Going through its ankle, these high sneakers have a floating effect on its wings. A stamped logo of Air Jordan, ball, and wings are also located in this part. It tends the Off White x Air Jordan 1 Retro High OG White to represent Jordan's shoe collection. Off white accents also complements the clean white colorway. The off white hues are seen in the midsole, back, and sides of the shoes. It contrasts the ultimate white bases and upper of the Off White x Air Jordan 1 Retro High OG White.",
+        "price": "$5.999",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-off-white-white"
+    },
+    "14":{
+        "img": "../images/products/sneakers/nike-aj1-off-white-lightblue.jpg",
+        "title": "NIKE AIR JORDAN 1 RETRO HIGH OFF-WHITE UNIVERSITY BLUE.",
+        "description": "Time for some Tobacco Road vibes with these Jordan 1 Retro Off-Whites. Also known as the “UNC” editions, these Jordan 1s are the third colorway designed by Virgil Abloh and made in collaboration with his Off-White label. The sneakers come in a white, dark powder blue and cone colorway, with a white and blue deconstructed leather upper and Off-White detailing throughout. If you're a fan of Virgil Abloh's work and want to rep Off-White, this pair is another must-have.",
+        "price": "$1.903",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": false,
+            "hype": false,
+            "limited": true
+        },
+        "buy": "https://stockx.com/air-jordan-1-retro-high-off-white-university-blue"
+    },
+    "15":{
+        "img": "../images/products/sneakers/nike-sb-dunk-playstation.jpg",
+        "title": "NIKE SB DUNK LOW TRAVIS SCOTT X PLAYSTATION.",
+        "description": "To coincide with the debut of the PS5, Travis Scott and Nike teamed up with Playstation to offer a special edition Nike Dunk to five lucky fans who won the raffle. Nike and Playstation have a long history of collaborating to commemorate the release of new Playstation products.sneakers/ The most famous collab dates back to 2006 when the two companies created a F&F Air Force 1 to celebrate the PS3's debut. The Nike Dunk Low Travis Scott X Playstation sail and light blue upper with a charcoal grey reverse Swoosh. Sony branding on the hell tab, Playstation embroidery on the side heel, and a cream and light blue sole complete the design. The Nike Dunk Low Travis Scott X Playstation was released as a promotional product exclusively through raffle.",
+        "price": "$1.841",
+        "badges": {
+            "verified": true,
+            "classic": false,
+            "exclusive": true,
+            "collaboration": true,
+            "trending": true,
+            "hype": true,
+            "limited": true
+        },
+        "buy": "https://stockx.com/nike-dunk-low-travis-scott-x-playstation"
+    }
+}

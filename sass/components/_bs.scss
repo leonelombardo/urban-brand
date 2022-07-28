@@ -1,0 +1,135 @@
+// btn 
+.btn{
+    width: 100%;
+    
+    &:focus{
+        box-shadow: none;
+    }
+}
+
+.btn-primary{
+    background-color: $lightblue;
+
+    &:hover{
+        filter: brightness(95%);
+    }
+
+    &:focus{
+        box-shadow: none;
+    }
+}
+
+// row
+.row{
+    margin: 0;
+    padding: 0;
+    gap: $md 0;
+}
+
+// cards
+
+.card-img{
+    padding: $md;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.card-body{
+
+    .card-title{
+        font-weight: 1000;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        min-height: 3rem;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
+
+    .card-text{
+        margin-top: $sm;
+        font-weight: 500;
+    }
+
+    @include media-breakpoint-up(xs){
+        .card-badges{
+            height: auto;
+        }
+    }
+
+    @include media-breakpoint-up(sm){
+        .card-badges{
+            height: 4rem;
+        }
+    }
+
+    .card-desc{
+        color: $gray;
+        font-size: $xsm;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+    }
+
+    .bg-green{
+        background-color: $green;
+    }
+
+    .bg-purple{
+        background-color: $purple;
+    }
+
+    .bg-blue{
+        background-color: $blue;
+    }
+
+    .bg-lightblue{
+        background-color: $lightblue;
+    }
+
+    .bg-brown{
+        background-color: $brown;
+    }
+
+    .bg-red{
+        background-color: $red;
+    }
+
+    .bg-pink{
+        background-color: $pink;
+    }
+}
+
+
+// accordion
+.accordion{
+    width: 100%;
+
+    .accordion-button{
+        i{
+            margin-right: 8px;
+        }
+
+        &:not(.collapsed){
+            background: $secondary;
+        }
+
+        &:focus{
+            box-shadow: none;
+        }
+    }
+
+    .accordion-body{
+        padding: 0;
+        width: 100%;
+    }
+}
+
+
+@include media-breakpoint-up(md){
+    .accordion{
+        width: 75%;
+    }
+}

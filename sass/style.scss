@@ -1,0 +1,21 @@
+// dependencies
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "./custom";
+
+// maps
+@import "./maps";
+
+// mixins
+@import "./mixins";
+
+// components
+@import "./components/body";
+@import "./components/root";
+@import "./components/nav";
+@import "./components/carousel";
+@import "./components/sneakers-search-bar";
+@import "./components/wearing-search-bar";
+@import "./components/mains";
+@import "./components/footer";
+@import "./components/bs";
+@import "./components/404";
